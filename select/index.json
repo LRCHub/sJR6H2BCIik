@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Kanade",
+  "base_artist": "Hoshina Anniversary",
+  "createdAt": "2026-02-07T10:12:07.778032Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "kanade",
+      "artist": "IA",
+      "has_synced": false,
+      "path": "select/01_kanade_IA.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "kanade",
+      "artist": "Jun Maeda",
+      "has_synced": false,
+      "path": "select/02_kanade_Jun_Maeda.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kanade",
+      "artist": "Yuki Hase(CV:Yoshitaka Yamaya)",
+      "has_synced": true,
+      "path": "select/03_Kanade_Yuki_Hase(CV_Yoshitaka_Yamaya).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kanade",
+      "artist": "Yoshitaka Yamaya",
+      "has_synced": true,
+      "path": "select/04_Kanade_Yoshitaka_Yamaya.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kanade",
+      "artist": "Sukimaswitch",
+      "has_synced": true,
+      "path": "select/05_Kanade_Sukimaswitch.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kanade (Male version)",
+      "artist": "Sukima Switch",
+      "has_synced": true,
+      "path": "select/06_Kanade_(Male_version)_Sukima_Switch.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kanade",
+      "artist": "Sukima Switch",
+      "has_synced": true,
+      "path": "select/07_Kanade_Sukima_Switch.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kanade",
+      "artist": "Zion",
+      "has_synced": false,
+      "path": "select/08_Kanade_Zion.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Kana Kanade",
+      "artist": "Madhu Balakrishnan, Gurukiran",
+      "has_synced": false,
+      "path": "select/09_Kana_Kanade_Madhu_Balakrishnan,_Gurukiran.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kana Kanade",
+      "artist": "Madhubala Krishna",
+      "has_synced": true,
+      "path": "select/10_Kana_Kanade_Madhubala_Krishna.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "奏(かなで) - Kanade",
+      "artist": "SUKIMASWITCH",
+      "has_synced": true,
+      "path": "select/11_奏(かなで)_-_Kanade_SUKIMASWITCH.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kana Kanade",
+      "artist": "Madhu Balakrishnan",
+      "has_synced": false,
+      "path": "select/12_Kana_Kanade_Madhu_Balakrishnan.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Kanade",
+      "artist": "Kaori Fujimiya(CV:Sora Amamiya)",
+      "has_synced": false,
+      "path": "select/13_Kanade_Kaori_Fujimiya(CV_Sora_Amamiya).txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ビターチョコデコレーション - Bitter Choco Decoration (feat. Yoisaki Kanade, Shinonome Ena",
+      "artist": "Nightcord at 25:00",
+      "has_synced": true,
+      "path": "select/14_ビターチョコデコレーション_-_Bitter_Choco_Decoration_(feat._Yoisaki_Kanade,_Shinonome_Ena_Nightcord_at_25_00.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Kanade Kanade",
+      "artist": "Naresh Iyer, Anuradha Bhat",
+      "has_synced": true,
+      "path": "select/15_Kanade_Kanade_Naresh_Iyer,_Anuradha_Bhat.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ビターチョコデコレーション - Bitter Choco Decoration (feat. Yoisaki Kanade, Shinonome Ena & Hatsune Miku)",
+      "artist": "Nightcord at 25:00",
+      "has_synced": true,
+      "path": "select/16_ビターチョコデコレーション_-_Bitter_Choco_Decoration_(feat._Yoisaki_Kanade,_Shinonome_Ena_&_H_Nightcord_at_25_00.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Kanade (For 1 Week Friends.)",
+      "artist": "SUKIMASWITCH",
+      "has_synced": true,
+      "path": "select/17_Kanade_(For_1_Week_Friends.)_SUKIMASWITCH.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Kanade",
+      "artist": "Hoshina Anniversary",
+      "has_synced": false,
+      "path": "select/pl_01_Kanade_Hoshina_Anniversary.txt"
+    }
+  ]
+}
